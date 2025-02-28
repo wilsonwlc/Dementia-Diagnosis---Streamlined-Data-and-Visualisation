@@ -1,0 +1,31 @@
+/* Apply a consistent font globally */
+body {
+    font-family: "Arial", sans-serif !important;
+    font-size: 16px;
+    color: #333;  /* Ensure text is visible */
+}
+
+/* Ensure headers follow the same font */
+h1, h2, h3 {
+    font-family: "Arial", sans-serif !important;
+    font-weight: bold;
+}
+
+/* Style the dropdown text */
+.Select-control,
+.Select-menu-outer,
+.VirtualizedSelectOption {
+    font-family: "Arial", sans-serif !important;
+    font-size: 16px;
+}
+
+/* Fix Dash DataTable font */
+.dash-table-container .dash-spreadsheet {
+    font-family: "Arial", sans-serif !important;
+    font-size: 16px;
+}
+
+/* Ensure Graph titles and labels match */
+g.xtick text, g.ytick text, .main-svg {
+    font-family: "Arial", sans-serif !important;
+}
