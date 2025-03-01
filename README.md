@@ -1,4 +1,4 @@
-# Dementia Diagnosis: Streamlined Data and Visualization
+# Dementia Diagnosis: Streamlined Data and Visualisation
 ## Overview
 This project provides an automated pipeline for downloading and updating dementia diagnoses data from the NHS, processing the data, and visualizing it using an interactive dashboard built with Dash and Plotly.
 
